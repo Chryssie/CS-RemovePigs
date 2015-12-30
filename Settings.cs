@@ -6,7 +6,7 @@ namespace RemovePigs
     {
         private Settings()
         {
-            Tag = "[ARIS] Remove Pigs";
+            Tag = "Remove Pigs [Fixed for v1.2+]";
         }
 
         private static readonly Settings _Instance = new Settings();
