@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace RemovePigs
+﻿namespace RemovePigs
 {
     public sealed class Settings
     {
         private Settings()
         {
-            Tag = "Remove Pigs [Fixed for v1.2+]";
+            Tag = "Remove Pigs [Fixed for v1.3+]";
         }
 
         private static readonly Settings _Instance = new Settings();
